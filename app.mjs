@@ -16,4 +16,3 @@ words.forEach((word) => {
 });
 
 console.log(colorBadJoke.trim());
-
